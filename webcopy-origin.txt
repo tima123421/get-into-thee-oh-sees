@@ -1,0 +1,232 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Merriweather
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Mulish
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf
+Content Type: font/ttf
+
+Uri: https://get-into-gizz.com/
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\index.htm
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/12-bar-bruise.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\12-bar-bruise.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/butterfly-3000.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\butterfly-3000.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/eyes-like-the-sky.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\eyes-like-the-sky.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/fishing-for-fishies.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\fishing-for-fishies.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/float-along-fill-your-lungs.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\float-along-fill-your-lungs.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/flying-microtonal-banana.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\flying-microtonal-banana.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/gumboot-soup.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\gumboot-soup.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/im-in-your-mind-fuzz.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\im-in-your-mind-fuzz.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/infest-the-rats-nest.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\infest-the-rats-nest.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/kg.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\kg.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/lw.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\lw.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/made-in-timeland.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\made-in-timeland.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/murder-of-the-universe.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\murder-of-the-universe.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/nonagon-infinity.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\nonagon-infinity.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/oddments.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\oddments.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/omnium-gatherum.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\omnium-gatherum.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/paper-mache-dream-balloon.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\paper-mache-dream-balloon.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/polygondwanaland.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\polygondwanaland.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/quarters.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\quarters.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/sketches-of-brunswick-east.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\sketches-of-brunswick-east.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/album-pages/willoughbys-beach.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\album-pages\willoughbys-beach.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/img/12bb.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\12bb.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/bf3k.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\bf3k.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/elts.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\elts.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/fafyl.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\fafyl.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://get-into-gizz.com/img/fff.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\fff.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/fmb.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\fmb.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/gumboot.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\gumboot.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/itrn.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\itrn.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/kg.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\kg.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/lw.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\lw.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/mind-fuzz.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\mind-fuzz.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/motu.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\motu.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/nonagon.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\nonagon.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/oddments.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\oddments.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/og.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\og.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/paper-mache.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\paper-mache.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/poly.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\poly.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/quarters.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\quarters.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/sketches.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\sketches.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/img/timeland.png
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\timeland.png
+Content Type: image/png
+
+Uri: https://get-into-gizz.com/img/willoughby.jpg
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\img\willoughby.jpg
+Content Type: image/jpeg
+
+Uri: https://get-into-gizz.com/index.html
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\index.html
+Content Type: text/html
+
+Uri: https://get-into-gizz.com/kinggizz.js
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\kinggizz.js
+Content Type: application/javascript
+
+Uri: https://get-into-gizz.com/stylesheet.css
+File Name: C:\Downloaded Web Sites\get-into-gizz.com\stylesheet.css
+Content Type: text/css
+

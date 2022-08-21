@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Get Into Osees</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="stylesheet" href="ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css?family=Merriweather">
+  <link rel="stylesheet" href="css-1?family=Mulish">
+
+  <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+
+  <script type="text/javascript" src="ohsees.js"></script>
+</head>
+
+<body>
+
+<div id="hero">
+	<img id="spider" src="img/1.png">
+</div>
+
+<div id="menu" class="overlay">
+  <button id="overlay-button" class="menu-button" onclick="closeMenu()"><i class="fa fa-bars"></i></button>
+  <div class="overlay-content">
+    <a href="#">Home</a>
+    <a href="#" onclick="randomAlbum()">Random Album</a>
+  </div>
+</div>
+
+<button class="menu-button" onclick="openMenu()"><i class="fa fa-bars"></i></button>
+
+<div class="flex">
+  <div class="flex-item-mid">
+    <div id="introduction">
+	  <h1>Get into Osees</h1>
+	  <p>Travel guide to Thee Oh Sees! (and some part of John Dwyer)</p>
+	  <p>It often happens that new listeners are confused in choosing an album, so this site was created to simplify this task. Here you can choose the path you can start with folk or garage, but you can also choose any album from the list or choose a random album.</p>
+	  <p>This site is made from fans to fans, many album descriptions were taken or based on listener reviews.</p>
+	  <div id="classbut">
+      <a class="button-introduction" href="album-pages/thee_hounds_of_foggy_notion.html">Folky start!</a>
+      <h1 style="margin: 0 20px">or</h1>
+      <a class="button-introduction" href="album-pages/help.html">Garage start!</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3>Alternatively, pick an album below to start from:</h3>
+
+<div id="all-albums" class="flex">
+
+	<div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/a_foul_form.html"><img src="img/ff.jpg"></a>
+	  <p id="card-small-info">A Foul Form</p>
+	</div>
+  </div>
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/weirdo_hairdo.html"><img src="img/wh.jpg"></a>
+	  <p id="card-small-info">Weirdo Hairdo</p>
+	</div>
+  </div>
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/metamorphosed.html"><img src="img/mm.jpg"></a>
+	  <p id="card-small-info">Metamorphosed</p>
+	</div>
+  </div>
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/protean_threat.html"><img src="img/pt.jpg"></a>
+	  <p id="card-small-info">Protean Threat</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/12_s.html"><img src="img/12.jpg"></a>
+	  <p id="card-small-info">The 12" Synth</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/face_stabber.html"><img src="img/fs.jpg"></a>
+	  <p id="card-small-info">Face Stabber</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/smote_reverser.html"><img src="img/reverser.jpg"></a>
+	  <p id="card-small-info">Smote Reverser</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/memory_of_a_cut_off_head.html"><img src="img/memory_of_a_cut_off_head.jpg"></a>
+	  <p id="card-small-info">Memory of a Cut Off Head</p>
+	</div>
+  </div>
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/orc.html"><img src="img/orc.jpg"></a>
+	  <p id="card-small-info">Orc</p>
+	</div>
+  </div>
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/an_odd_entrances.html"><img src="img/aoe.jpg"></a>
+	  <p id="card-small-info">An Odd Entrances</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/a_weird_exits.html"><img src="img/a_weird_exits.jpg"></a>
+	  <p id="card-small-info">A Weird Exits</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/mutilator_defeated_at_last.html"><img src="img/mdal.jpg"></a>
+	  <p id="card-small-info">Mutilator Defeated At Last</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/cold_hot_plumbs.html"><img src="img/chp.jpg"></a>
+	  <p id="card-small-info">Cold Hot Plumbs and Damaged Bug</p>
+	</div>
+  </div>
+  
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/drop.html"><img src="img/drop.jpg"></a>
+	  <p id="card-small-info">Drop</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/floating_coffin.html"><img src="img/floating_coffin.jpg"></a>
+	  <p id="card-small-info">Floating Coffin</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/putrifiers.html"><img src="img/p2.jpg"></a>
+	  <p id="card-small-info">Putrifiers II</p>
+	</div>
+  </div>
+
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/carrion_crawler_the_dream.html"><img src="img/ccd.jpg"></a>
+	  <p id="card-small-info">Carrion Crawler / The Dream</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/castlemania.html"><img src="img/castlemania.jpg"></a>
+	  <p id="card-small-info">Castlemania</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/warm_slime.html"><img src="img/warm_slime.jpg"></a>
+	  <p id="card-small-info">Warm slime</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/dog_poison.html"><img src="img/dog_poison.jpg"></a>
+	  <p id="card-small-info" >Dog Poison</p>
+	</div>
+  </div>
+  
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/Help.html"><img src="img/help.jpg"></a>
+	  <p id="card-small-info">Help</p>
+	</div>
+  </div>
+
+   <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/the_masters_bedroom_is_worth_spending_a_night_in.html"><img src="img/mbwsn.jpg"></a>
+	  <p id="card-small-info" style="">The Masters Bedroom Is Worth Spending A Night In</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/thee_hounds_of_foggy_notion.html"><img src="img/thfn.jpg"></a>
+	  <p id="card-small-info">Thee Hounds Of Foggy Notion</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/sucks_blood.html"><img src="img/sucksblood.jpg"></a>
+	  <p id="card-small-info">Sucks Blood</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/grave_blockers.html"><img src="img/grave_blockers.jpg"></a>
+	  <p id="card-small-info">Grave Blockers</p>
+	</div>
+  </div>
+  
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/Cool_Death_of_Island_Raiders.html"><img src="img/cdir.jpg"></a>
+	  <p id="card-small-info">Cool Death of Island Raiders</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/vol_4.html"><img src="img/v4.jpg"></a>
+	  <p id="card-small-info">Songs About Death and Dying Vol. 4: Get Stoved</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/vol_3.html"><img src="img/v3.jpg"></a>
+	  <p id="card-small-info">Songs About Death and Dying Vol. 3</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/vol_2.html"><img src="img/v2.jpg"></a>
+	  <p id="card-small-info">Songs About Death and Dying Vol. 2</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/vol_1.html"><img src="img/v1.jpg"></a>
+	  <p id="card-small-info">Songs About Death and Dying Vol. 1</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/bangers_vs_fuckers.html"><img src="img/bangers_vs_fuckers.jpg"></a>
+	  <p id="card-small-info">Bangers vs. Fuckers and Coachwhips</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/pink_brown.html"><img src="img/pb1.jpg"></a>
+	  <p id="card-small-info">Pink & Brown</p>
+	</div>
+  </div>
+
+  <div class="flex-item-mid">
+    <div class="card-small">
+	  <a href="album-pages/idm.html"><img src="img/idm.jpg"></a>
+	  <p id="card-small-info">I.D.M. LP and Zeigenbock Kopf</p>
+	</div> 
+  </div>
+
+
+
+</div>
+
+<div class="footer">
+  <p>&#169; gloyens 2022</p>
+</div>
+
+</body>
+</html>

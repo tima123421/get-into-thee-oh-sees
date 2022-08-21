@@ -1,0 +1,383 @@
+* {
+  box-sizing: border-box;	
+}
+
+body {
+  margin: 0;
+  font-family: Mulish, Helvetica, sans-serif;
+  color: #1a1a1a;
+  background-color: #1a1a1a;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#hero {
+  border-radius: 0 0 3% 3%;
+  background-color: #e6eef2;
+  height: 80%;
+  width: 100%;
+  display: block;
+  position: absolute;
+  z-index: -1;
+}
+#spider{
+  height: 200px;width: 200px;
+}
+
+h1 {
+  font-family: Merriweather, Georgia, serif;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: Merriweather, Georgia, serif;
+  font-size: 32px;
+  margin-top: 0;
+}
+
+h3 {
+  font-family: Merriweather, Georgia, serif;
+  color: #fff;
+  font-size: 28px;
+  padding: 20px 10% 0;
+}
+
+.text-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.text-link:hover {
+  border-bottom: 2px solid currentColor;
+}
+
+iframe {
+  margin: 20px 0;
+}
+
+/* Navigation */
+
+.overlay {
+  height: 0;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  background-color: rgb(0,0,0); /* Black fallback color */
+  background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+  overflow: hidden; /* Disable scroll */
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px; /* avoid conflict with close button on smaller screens */
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-family: Merriweather;
+  font-weight: 900;
+  font-size: 36px;
+  color: #888;
+  display: block;
+  transition: 0.3s; /* hover and font size transition */
+}
+
+.menu-button {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  font-size: 30px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #000;
+  display: block;
+  transition: 0.3s;
+  background-color: rgb(0,0,0); /* Black fallback color */
+  background-color: rgba(0,0,0,0); /* Black w/opacity */
+  padding: 15px 20px;
+  border-radius: 50%;
+  border-style: none;
+  cursor: pointer;
+}
+
+.overlay a:hover, .overlay a:focus, #overlay-button:hover {
+  color: #fff;
+}
+
+#overlay-button {
+  color: rgba(255,255,255,0.5);
+}
+
+/* Flexbox */
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 50px;
+}
+
+.flex-item-left, .flex-item-mid, .flex-item-right {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 20px;
+}
+
+#introduction {
+  max-width: 600px;
+  padding: 50px;
+  text-align: center;
+}
+
+#classbut{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#album-cover {
+  max-width: 400px;
+  object-fit: contain;
+  z-index: -1;
+  -webkit-box-reflect: below 0px linear-gradient(to bottom, transparent 0%, transparent 75%, rgba(0,0,0,0.4));
+}
+
+#band-pic{
+  max-width: 400px; 
+  max-height: 400px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px #000;
+}
+
+#album-info {
+  max-width: 600px;
+  padding: 50px;
+  padding-bottom: 0;
+}
+
+.card {
+  margin: 5px 20px;
+  max-width: 300px;
+  height: 100%;
+  background-color: #222;
+  box-shadow: 5px 5px 10px #000;
+  color: #fff;
+  border-right: 5px;
+
+}
+
+#cards {
+  flex-wrap: wrap;
+}
+
+#card-info {
+  padding: 10px 30px 40px;
+}
+
+#all-albums {
+  flex-wrap: wrap;
+  padding-top: 0;
+}
+
+.card-small {
+  margin: 20px;
+  max-width: 200px;
+  height: 280px;
+  background-color: #222;
+  box-shadow: 5px 5px 10px #000;
+  color: #fff;
+}
+
+#card-small-info {
+  padding: 0 20px 10px;
+}
+
+.button-primary {
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  color: #1a1a1a;
+  padding: 10px 20px;
+  margin: 20px 20px 0;
+  font: 900 14px Mulish;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.button-introduction {
+  background-color: #bfc2c3;
+  border: none;
+  border-radius: 20px;
+  color: #1a1a1a;
+  padding: 20px;
+  margin: 50px auto;
+  font: 700 30px Merriweather;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.button-introduction:hover {
+  background-color: #1a1a1a;
+  border: none;
+  color: #fff;
+}
+
+/* Table */
+
+#table {
+  padding-left: 20px;
+  flex-direction: column;
+}
+
+.table-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: white;
+  margin: 0 20%;
+}
+
+.table-row:nth-child(odd) {
+  background-color: #222;
+}
+
+.table-image {
+  max-width: 64px;
+}
+
+.table-row p {
+  padding: 0 20px;
+  text-align: left;
+}
+
+.button-table {
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  color: #1a1a1a;
+  padding: 10px 20px;
+  margin-right: 20px;
+  margin-left: auto;
+  font: 900 14px Mulish;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.footer {
+  background-color: #222;
+  color: #555;
+  padding: 30px;
+  text-align: right;
+}
+
+/* Responsive */
+
+@media only screen and (max-width: 640px) {
+  body {
+	color: #fff;
+  }
+  
+  #hero {
+	height: 0;
+  }
+
+  #spider{
+  height: 0;
+  }
+  
+  h1 {
+	padding-top: 80px;
+  }
+  
+  h3 {
+	padding-top: 0;
+  }
+  
+  .text-link {
+    color: #fff;
+  }
+  
+  .button-introduction {
+	background-color: #fff;
+	margin: 50px 5%;
+  }
+  
+  .menu-button {
+    background-color: rgba(0,0,0,0.5);
+	color: rgba(255,255,255,0.5);
+  }
+  
+  .menu-button:hover {
+	color: #fff;
+  }
+  
+  .flex {
+    flex-direction: column;
+	padding: 0;
+  }
+  
+  #album-cover,#band-cover, #album-info, #introduction {
+    max-width: 100%;
+  }
+
+  .card {
+	margin: 50px auto;
+  }
+
+  #all-albums {
+	flex-direction: row;
+  }
+
+  .card-small {
+	margin: 10px;
+  }
+  
+  #table {
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 0;
+	
+  }
+  
+  .table-row {
+	flex-direction: column;
+	width: 25%;
+	min-width: 150px;
+	margin: 10px;
+	background-color: #222;
+    box-shadow: 5px 5px 10px #000;
+  }
+
+  .table-image {
+	width: 100%;
+	max-width: 300px;
+  }
+
+  .button-table {
+	margin: auto 20px 20px;
+	padding: 10px;
+  }
+}
+

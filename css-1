@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aevHg.ttf) format('truetype');
+}
